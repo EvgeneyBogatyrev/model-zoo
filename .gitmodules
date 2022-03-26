@@ -1,3 +1,6 @@
 [submodule "Real-ESRGAN"]
 	path = Real-ESRGAN
 	url = https://github.com/EvgeneyZ/Real-ESRGAN
+[submodule "VRT"]
+	path = VRT
+	url = https://github.com/EvgeneyZ/VRT
